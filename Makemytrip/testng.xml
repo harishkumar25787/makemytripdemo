@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="makemytrip"  >
+    
+    <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+   <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+       <listener class-name="listener.CustomListeners"/>
+  </listeners>	
+    
+	<test name="Search flight">
+    <classes>
+            
+            <class name="testcases.makemytrip"/>
+             
+            
+   </classes>
+
+	</test> <!-- Test -->
+	
+
+	
+	
+</suite> <!-- Suite -->

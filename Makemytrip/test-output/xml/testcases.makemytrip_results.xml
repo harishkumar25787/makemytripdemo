@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Search flight"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.642">
+  <properties />
+  
+  
+            <testcase name="maketrip" time="20.642" classname="testcases.makemytrip" />
+      
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="85.620">
+  <properties />
+  
+  
+            <testcase name="Initialize" time="70.543" classname="executionEngine.DriverScriptTest" />
+                <testcase name="execute_Actions" time="15.077" classname="executionEngine.DriverScriptTest" />
+      
+</testsuite>
